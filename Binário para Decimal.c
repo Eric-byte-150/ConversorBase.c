@@ -1,3 +1,10 @@
+/************************************************************ 
+
+ Fatec Franco da Rocha Gestão de Sistemas Operacionais  
+
+Grupo: Anderson,Elizabeth, Eric e Giovanni  
+************************************************************/  
+
 #include <stdio.h>
 
 int main() {
